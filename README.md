@@ -1,2 +1,3 @@
-# CVReponsive
-Curriculum Vitae creado en HTML Y CSS
+# CV Reponsive
+Curriculum Vitae creado en HTML y CSS
+ 
